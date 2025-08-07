@@ -1,4 +1,4 @@
-📬 Ping Coming Soon Page
+## 📬 Ping Coming Soon Page
 
 A simple and responsive "Coming Soon" landing page where users can submit their email to be notified. Built using HTML, CSS, and JavaScript.
 
